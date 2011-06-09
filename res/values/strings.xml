@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BenchmarkSigncryption!</string>
+    <string name="app_name">Benchmark Signcryption</string>
+    <string name="editText_message">Ipsum</string>
+</resources>
